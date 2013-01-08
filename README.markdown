@@ -1,3 +1,8 @@
+NOTE: This project is not even started!
+=================================
+Following is the original forked from http://github.com/loduis/
+
+
 TeamWorkPm PHP Api
 ==================
 
